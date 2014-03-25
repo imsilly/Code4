@@ -1,0 +1,19 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+.container{width:1002px;height:690px;background:url(../images/bg_index.jpg) no-repeat;position:relative;padding-top:15px;}
+.flash{width:750px;height:400px;position:absolute;top:205px;left:145px;}
+.txt{font:bold 12px/140% Microsoft YaHei,SimSun, SimSun;font-style:italic;position:absolute;top:245px;left:50px;}
+.txt h1{display:none;}
+
+/*滚动新闻*/
+.news_marquee{width:1000px;height:20px;overflow:hidden;color:#000;font:normal 1em/140% Microsoft YaHei,SimSun, SimSun;position:absolute;bottom:5px;left:0;}
+.news_marquee .MarqueeTil{width:65px;height:20px;position:absolute;left:10px;top:0;color:#f00;}
+.news_marquee .MarqueeBox{position:absolute;left:50px;top:0;}
+.news_marquee #MarqueeBox p{width:925px;height:20px;overflow:hidden;text-indent:0;}
+.news_marquee #MarqueeBox p a{color:#000;}
+
+/*转发*/
+.forward{width:1002px;height:690px;background:url(../images/bg_forward.jpg) no-repeat;position:relative;padding-top:15px;}
+.copy_link{width:90px;height:29px;display:block;position:absolute;left:59px;bottom:165px;text-indent:-9999px;}
+

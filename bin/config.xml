@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+        <HouseDataURL>http://124.193.135.231/xhouse/web/house_data/</HouseDataURL>
+        <UserDataURL>http://124.193.135.231/xhouse/web/user_data/</UserDataURL>
+        <UserImageURL>http://124.193.135.231/xhouse/web/images/</UserImageURL>
+        <UpLoadServerURL>http://124.193.135.231/xhouse/services/services/</UpLoadServerURL>
+        <ShareServerURL>http://124.193.135.231/xhouse/services/</ShareServerURL>
+</data>

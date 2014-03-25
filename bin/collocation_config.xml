@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<debug>true</debug>
+	<playerURL>http://rrs.eqhouse.com/#/</playerURL>
+	<introURL>http://180.153.95.16/design/intro/Channel/</introURL>
+	
+	<serverURL>http://solarwind.watcher3d.com/</serverURL> 
+	<sceneBaseURL>http://solarwind.watcher3d.com/web/data/</sceneBaseURL>
+	<showBlankScene>true</showBlankScene>
+	<useStageView>false</useStageView>
+</data>

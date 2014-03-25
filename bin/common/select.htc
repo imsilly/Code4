@@ -1,0 +1,9 @@
+<PUBLIC:COMPONENT>   
+  <PUBLIC:METHOD NAME="Click"   />   
+  <PUBLIC:ATTACH EVENT="onfocus" ONEVENT="Click()"   />   
+  <SCRIPT LANGUAGE="JScript">   
+  	function Click() {   
+  		element.blur();   
+  	}   
+  </SCRIPT>   
+</PUBLIC:COMPONENT> 

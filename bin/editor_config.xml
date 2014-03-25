@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <ServerURL>http://solarwind.watcher3d.com/</ServerURL>
+	<PlayerURL>http://rrs.eqhouse.com/#/</PlayerURL>
+	<PlayerURL2>http://huxing.rrs.com/design/player/#/</PlayerURL2>
+	<SceneDataURL>http://solarwind.watcher3d.com/web/data/</SceneDataURL>
+
+    <HouseDataURL></HouseDataURL>
+</data>

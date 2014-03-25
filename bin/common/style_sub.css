@@ -1,0 +1,41 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+.header{width:1002px;height:455px;background:url(../images/bg_sub.jpg) no-repeat;padding-top:15px;position:relative;}
+.txt{font:bold 12px/140% Microsoft YaHei,SimSun, SimSun;font-style:italic;position:absolute;top:340px;left:50px;}
+.txt h1{display:none;}
+
+.wrapper_top{width:1002px;height:40px;background:url(../images/wrapper_top.gif) no-repeat;}
+.wrapper_top2{width:972px;height:48px;background:url(../images/wrapper_top2.gif) no-repeat;font:bold 18px/140% Microsoft YaHei,SimSun, SimSun;font-style:italic;color:#4d9a02;padding:26px 0 0 30px;}
+.wrapper_bottom{width:1002px;height:95px;background:url(../images/wrapper_bottom.gif) no-repeat;margin-bottom:10px;}
+.wrapper_bottom2{width:1002px;height:14px;background:url(../images/wrapper_bottom2.gif) no-repeat;margin-bottom:10px;}
+.wrapper_content{width:890px;border-color:#beccbe;border-style:solid;border-width:0 6px;background:#f7ffe0;padding:0 50px;}
+.wrapper_result{padding:50px 50px 40px 50px;}
+
+.wrapper_content h2{font:bold 16px/140% Microsoft YaHei,SimSun, SimSun;background:url(../images/ico_01.gif) left no-repeat;padding-left:22px;line-height:20px;color:#417a25;margin-bottom:5px;}
+.wrapper_content h2 font{font:normal 12px/140% 宋体;}
+.wrapper_content p{text-indent:24px;padding-bottom:5px;}
+p.indent12{text-indent:36px;}
+
+dl.qa dd{font-size:12px;color:#3e7a24;font-weight:bold;}
+dl.qa dt{padding:3px 0 25px 24px;}
+
+.wrapper_tab{width:500px;margin:0 auto;padding:20px 0;}
+input.reg_input{width:200px;height:20px;border:solid 1px #999;}
+.wrapper_top10{width:800px;margin:0 auto;padding:20px 0;}
+.wrapper_top10 td{height:30px;line-height:30px;background:url(../images/ico_02.gif) bottom repeat-x;text-align:center;}
+
+.result{width:805px;height:354px;background:url(../images/result.jpg) no-repeat;position:relative;margin:0 auto;}
+.result span{width:60px;height:35px;position:absolute;color:#c00;font:normal 22px/140% Microsoft YaHei,SimSun, SimSun;bottom:105px;text-align:center;}
+.result span.score1{left:222px;}
+.result span.score2{right:75px;}
+.result a{text-indent:-9999px;width:83px;height:18px;display:block;position:absolute;right:23px;bottom:24px;}
+
+
+
+
+
+
+
+
+
